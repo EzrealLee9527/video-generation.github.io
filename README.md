@@ -1,2 +1,2 @@
-# pnp-diffusion-github-io
-Plug-and-Play Diffusion features.
+# video-generation.github.io
+Video Generation方法汇总与结果展示
